@@ -6,7 +6,7 @@
 
 **Name:** Shaik Irfan Basha
 **GitHub Username:** IrfanCodesBTW
-**LinkedIn Profile:** https://www.linkedin.com/in/shaik-irfan-basha
+**LinkedIn Profile:** www.linkedin.com/in/shaik-irfan-basha-b73abb325
 **GitHub Project Repository:** https://github.com/IrfanCodesBTW/QuizRush
 
 ---
@@ -94,8 +94,8 @@ QuizRush is a blazing-fast, real-time multiplayer quiz game (Kahoot-style) desig
 
 ## Screenshots or Demo
 
-* **Deployed Link:** Local development stack (Dockerized)
-* **Demo Video Link:** [Local Demo Video]
+* **Deployed Link:**  https://quiz-rush-seven.vercel.app/
+* **Demo Video Link:** (https://www.image2url.com/r2/default/videos/1782038328907-a7e4f0cc-86bb-4245-ad2e-54cdb6d966d2.webm)
 * **Screenshots:**
   * **Lobby & Room Joining Interface:**
     ![Lobby Screen](https://github.com/IrfanCodesBTW/QuizRush/blob/main/showcase/Screenshot%202026-06-21%20154733.png?raw=true)
